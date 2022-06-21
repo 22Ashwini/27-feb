@@ -37,5 +37,9 @@ public class PinPageTest extends BaseTest {
 		 
 		 zerodhapinpage.clickonlogin();
 	 }
-
+       @Test
+       public void demo() {
+    	   System.out.println("hi");
+       }
+       
 }
